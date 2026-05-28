@@ -46,10 +46,10 @@ projeto-conexoes-seguras/
 
 Cada módulo possui documentação própria contendo:
 
-* ferramentas utilizadas
-* comandos executados
-* evidências da execução
-* análise técnica
+* Ferramenta usada
+* Passo a Passo
+* Resultado
+* Explicação Técnica do Resultado
 
 ---
 
